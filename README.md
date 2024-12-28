@@ -1,1 +1,1 @@
-# energy-management-systems-using-deep-learning
+# Energy-Management-Systems-Using-Deep-Learning
